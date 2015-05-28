@@ -1,2 +1,2 @@
 # ObjectiveXML
-Fastest and convenient way for converting XML to NSDictionary and JSON string
+Fastest and convenient way to convert XML data to NSDictionary and JSON string
